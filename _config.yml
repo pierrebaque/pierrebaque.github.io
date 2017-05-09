@@ -1,1 +1,52 @@
-theme: jekyll-theme-dinky
+
+# SEO settings
+title: "Pierre"
+title2: "Baqué" # default: ""
+description: "My page"
+keywords: ""
+url: http://pierrebaque.github.io/page # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/heiswayi/thinkspace
+disqus_shortname: "hnbloggithub"
+twitter_username: "HeiswayiNrird"
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Pierre Baqué"
+  job      : "AI Research"
+  bio      : ""
+  thumb    : /images/author.jpg
+  email    : hnrird@gmail.com
+  url      : http://pierrebaque.github.io
+  
+
+
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
