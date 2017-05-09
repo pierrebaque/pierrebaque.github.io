@@ -4,7 +4,7 @@ title: "Pierre"
 title2: "Baqué" # default: ""
 description: "My page"
 keywords: ""
-url: http://pierrebaque.github.io/page # site url
+url: http://pierrebaque.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
