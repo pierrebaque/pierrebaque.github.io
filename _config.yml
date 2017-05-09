@@ -36,9 +36,6 @@ author:
   email    : hnrird@gmail.com
   url      : http://pierrebaque.github.io
   
-
-
-
 gems:
   - bourbon
   - jekyll-paginate
