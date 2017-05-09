@@ -5,12 +5,12 @@
     <description>My page</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 May 2017 21:39:33 +0200</pubDate>
-    <lastBuildDate>Tue, 09 May 2017 21:39:33 +0200</lastBuildDate>
+    <pubDate>Tue, 09 May 2017 21:52:03 +0200</pubDate>
+    <lastBuildDate>Tue, 09 May 2017 21:52:03 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Deep Occlusion Reasoning</title>
+        <title>New Work on Multi People Tracking with Deep Occlusion Reasoning</title>
         <description>&lt;h3 id=&quot;tracking-multiple-people-with-multiple-cameras&quot;&gt;Tracking Multiple People with Multiple Cameras&lt;/h3&gt;
 
 &lt;p&gt;Our recent work on Multiple People Tracking with Multiple cameras. We use Deep-Learning and Mean-Field inference in Conditional Random Fields.&lt;/p&gt;
