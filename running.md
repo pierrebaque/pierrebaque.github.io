@@ -14,7 +14,7 @@ permalink: /running/
 
 ##### En 2017
 Vainqueur Trail Sainte Victoire  
-2eme Trail des Cabornis (20km)
+2eme Trail des Cabornis (20km)  
 ​20 km de Lausanne, 12eme en 1h06'05 
 
 ##### En 2016
