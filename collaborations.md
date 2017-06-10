@@ -8,6 +8,8 @@ permalink: /collaborations/
 I collaborated with Startup companies and industrial partners to develop innovative 
 applied research products.
 
+<br>
+
 #### CarmenV2
 I co-created the software [CarmenV2](http://www.efcables.com/nos-logiciels/) 
 with Nicolas Drecq ([EF Cables](http://www.efcables.com/)). 
