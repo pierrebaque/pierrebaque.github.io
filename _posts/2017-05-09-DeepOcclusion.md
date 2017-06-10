@@ -3,6 +3,7 @@ layout: post
 title: "New Work on Multi People Tracking with Deep Occlusion Reasoning"
 description: "Tracking Multiple People with Multiple Cameras"
 comments: true
+categories: Research
 keywords: "dummy content, lorem ipsum"
 ---
 
