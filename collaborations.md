@@ -21,7 +21,7 @@ Notably, we developed automated implantation tool. Our algorithms are able to ch
 optimal design on any kind of terrain profiles. This helps engineers speed-up their workflow
 and improve cost efficiency for their clients.
  
-<\br> <\br>
+<br> <br>
 
 #### Sonalytic
 ![Sonalytic]({{site.url}}/img/Sonalytic.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 7px;"}
