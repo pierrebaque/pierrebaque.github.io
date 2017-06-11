@@ -27,5 +27,4 @@ and improve cost efficiency for their clients.
 
 #### Sonalytic
 ![Sonalytic]({{site.url}}/img/Sonalytic.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 7px;"}
-I helped the startup company [Sonalytic](https://www.sonalytic.com/) improve its music re-identification algorithms. 
-Since then, it has been acquired by [Spotify](https://www.spotify.com).
+I worked with the startup company [Sonalytic](https://www.sonalytic.com/). Since then, it has been acquired by [Spotify](https://www.spotify.com).
