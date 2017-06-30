@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### Current Work
-My research lies at the intersection between modern Computer Vision and Variational Inference. My goal is to combine deep-learning techniques with scalable inference algorithm in order to develop new structured learning methods.
+My research is at the intersection between modern Computer Vision and Variational Inference. My goal is to combine deep-learning techniques with scalable inference algorithm in order to develop new structured learning methods.
 
 I am currently focusing on learning Mean-Field Inference algorithm for Multi-Camera Pedestrian Detection and occlusion reasoning.
 
