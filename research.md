@@ -13,7 +13,7 @@ I am currently focusing on learning Mean-Field Inference algorithm for Multi-Cam
 
 ![MF]({{site.url}}/img/MMMF.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 7px;"}
 <br><br>
-[Multi-Modal Mean-Fields via Cardinality-Based Clamping](https://arxiv.org/abs/1611.07941)
+[Multi-Modal Mean-Fields via Cardinality-Based Clamping](http://www.pierrebaque.com/page-MMMF/)
 
 *Pierre Baqué, François Fleuret, Pascal Fua* -- CVPR 2017
 
