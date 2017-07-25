@@ -11,6 +11,14 @@ I am currently focusing on learning Mean-Field Inference algorithm for Multi-Cam
 
 ### Recent Publications
 
+![MF]({{site.url}}/img/DeepOcclusion.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 7px;"}
+<br>
+[Deep-Occlusion Reasoning for Multi-Camera Multi-People detection](https://arxiv.org/abs/1704.05775/)
+
+*Pierre Baqué, François Fleuret, Pascal Fua* -- ICCV 2017
+
+<br>
+
 ![MF]({{site.url}}/img/MMMF.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 7px;"}
 <br><br>
 [Multi-Modal Mean-Fields via Cardinality-Based Clamping](http://www.pierrebaque.com/page-MMMF/)
