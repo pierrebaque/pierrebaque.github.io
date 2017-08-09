@@ -5,9 +5,58 @@
     <description>My page</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2017 12:29:22 +0200</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2017 12:29:22 +0200</lastBuildDate>
+    <pubDate>Wed, 09 Aug 2017 17:54:23 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Aug 2017 17:54:23 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Releasing the Wildtrack dataset</title>
+        <description>&lt;h3 id=&quot;the-wildtrack-dataset&quot;&gt;The Wildtrack dataset&lt;/h3&gt;
+
+&lt;p&gt;We are releasing a new dataset for Multi-Camera Multi-Peope tracking. Specific features:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Crowded scenes&lt;/li&gt;
+  &lt;li&gt;Very precise camera calibration&lt;/li&gt;
+  &lt;li&gt;Real people (no actors)&lt;/li&gt;
+  &lt;li&gt;7 cameras&lt;/li&gt;
+  &lt;li&gt;1h of video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1707.09299&quot;&gt;Arxiv Paper&lt;/a&gt;, &lt;a href=&quot;http://cvlab.epfl.ch/data/wildtrack&quot;&gt;Project Page&lt;/a&gt;, &lt;a href=&quot;https://github.com/cvlab-epfl/multicam-gt&quot;&gt;Code for our annotation platform (Python + Django)&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Aug 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/Dataset/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Dataset/</guid>
+        
+        
+        <category>Research</category>
+        
+      </item>
+    
+      <item>
+        <title>Trail de Faverges</title>
+        <description>&lt;h3 id=&quot;trail-faverges-etape-du-trail-tour-national&quot;&gt;Trail Faverges Etape du Trail Tour National&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/faverges.png&quot; alt=&quot;Départ avec Rolland Claverie&quot; style=&quot;width: 350px;float: left;margin-right: 7px;margin-top: 7px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dimanche pluvieux au début du mois de Juillet. J’ai participé au Trail de Sources du Lac à Faverges. Il s’agissait d’une étape du Trail Tour National, qualificative pour les Championnats de France.&lt;/p&gt;
+
+&lt;p&gt;J’ai accroché une seconde place très satisfaisante, étant donné le niveau élevé de la course. Je me suis particulièrement employé et j’ai pris tous les risques dans la dernière descente pour prendre le dessus sur  Léo Pagnucco. Bravo au vainqueur qui était vraiment au dessus ce jour là et arrive avec presque 5 minutes d’avance. &lt;a href=&quot;https://www.trail-faverges.com/les-courses/resultats&quot;&gt;Classement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/Faverges/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/Faverges/</guid>
+        
+        
+        <category>Running</category>
+        
+      </item>
     
       <item>
         <title>TPV Yens</title>
