@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Project proposal in Machine Learning/Continuous Optimization"
-description: "Active learning of Neural Network proxies for fluid simuations"
+description: "Active learning of Neural Network proxies for aerodynamic optimization"
 comments: true
 categories: Research
 keywords: "dummy content, lorem ipsum"
 ---
 
-### Gradient Descent optimisation using Neural Network proxies
+### Active learning of Neural Network proxies for aerodynamic optimization
 
 ##### Presentation 
 
