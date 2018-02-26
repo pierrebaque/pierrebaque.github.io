@@ -7,9 +7,16 @@ permalink: /research/
 ### Current Work
 My research is at the intersection between modern Computer Vision and Variational Inference. My goal is to combine deep-learning techniques with scalable inference algorithm in order to develop new structured learning methods.
 
-I am currently focusing on learning Mean-Field Inference algorithm for Multi-Camera Pedestrian Detection and occlusion reasoning.
+I am currently focusing on Machine Learning techniques for graphs and meshes.
 
 ### Recent Publications
+![MF]({{site.url}}/img/ShapeOpt.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 10px;margin-bottom: 10px;"}
+
+[Geodesic Convolutional Shape Optimization](https://arxiv.org/pdf/1802.04016.pdf)
+<br>
+*Pierre Baqué, Edoardo Remelli, François Fleuret, Pascal Fua* -- Arxiv
+
+<br>
 
 ![MF]({{site.url}}/img/DeepOcclusion.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 7px;"}
 <br>

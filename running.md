@@ -7,8 +7,8 @@ permalink: /running/
 
 ![Me]({{site.url}}/img/running.png){:style="width: 400px;float: left;margin-right: 14px;margin-top: 7px;"}
 <br><br><br>
-###  <span style="color:blue"> Prochaine course : <a href="https://www.trailcotedopale.com/"> Trail Côte d'Opale </a> (31 km) </span>
 <br><br><br><br><br><br><br>
+<br><br><br>
 
 <br>
 
