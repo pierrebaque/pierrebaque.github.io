@@ -12,7 +12,7 @@ I am currently focusing on Machine Learning techniques for graphs and meshes.
 ### Recent Publications
 ![MF]({{site.url}}/img/ShapeOpt.png){:style="width: 200px;float: left;margin-right: 7px;margin-top: 10px;margin-bottom: 10px;"}
 
-[Geodesic Convolutional Shape Optimization](https://arxiv.org/pdf/1802.04016.pdf)
+[Geodesic Convolutional Shape Optimization](http://www.pierrebaque.com/2018/ConvShapeOpt/)
 <br>
 *Pierre Baqué, Edoardo Remelli, François Fleuret, Pascal Fua* -- Arxiv
 
